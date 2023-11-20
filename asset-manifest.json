@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ptlanding/static/css/main.f855e6bc.css",
+    "main.js": "/ptlanding/static/js/main.9c217077.js",
+    "static/js/787.4d26c58a.chunk.js": "/ptlanding/static/js/787.4d26c58a.chunk.js",
+    "static/media/28.png": "/ptlanding/static/media/28.a81e6d3952cccb2d5bbf.png",
+    "static/media/19.png": "/ptlanding/static/media/19.daf9b532ff4603ba2611.png",
+    "static/media/17.png": "/ptlanding/static/media/17.d183b09b6d59e488b3e8.png",
+    "static/media/15.png": "/ptlanding/static/media/15.683f9f32d6422de1828d.png",
+    "static/media/1.png": "/ptlanding/static/media/1.8855dd3d9278b1e9a3b9.png",
+    "static/media/7.png": "/ptlanding/static/media/7.2fe433a33040f2aed352.png",
+    "static/media/24.png": "/ptlanding/static/media/24.00726513080e531d0a8b.png",
+    "static/media/12.png": "/ptlanding/static/media/12.5f388fedf39c12552a3a.png",
+    "static/media/29.png": "/ptlanding/static/media/29.ab834d433f8a1ed7a67f.png",
+    "static/media/23.png": "/ptlanding/static/media/23.418aa4c19e3124445380.png",
+    "static/media/18.png": "/ptlanding/static/media/18.1db2a5995325cb74130f.png",
+    "static/media/20.png": "/ptlanding/static/media/20.670ed79cc0ad1d875b5f.png",
+    "static/media/16.png": "/ptlanding/static/media/16.9c4708b25bae350336cc.png",
+    "static/media/6.png": "/ptlanding/static/media/6.c403e929cacb9d2318e4.png",
+    "static/media/10.png": "/ptlanding/static/media/10.721b6d1e9104c56ef43b.png",
+    "static/media/3.png": "/ptlanding/static/media/3.d2c045fe03af4d046650.png",
+    "static/media/27.png": "/ptlanding/static/media/27.e538c1cfbd41ca87e642.png",
+    "static/media/13.png": "/ptlanding/static/media/13.94c59c995b07bec0bd58.png",
+    "static/media/14.png": "/ptlanding/static/media/14.2cd6ba69e33120660d58.png",
+    "static/media/9.png": "/ptlanding/static/media/9.9416cc6b071b4355d9a7.png",
+    "static/media/4.png": "/ptlanding/static/media/4.206b099c571d895780b6.png",
+    "static/media/26.png": "/ptlanding/static/media/26.c7bf52874c2980b4f7dd.png",
+    "static/media/21.png": "/ptlanding/static/media/21.1f0070ecd3b015064421.png",
+    "static/media/11.png": "/ptlanding/static/media/11.e7302b039f5b364c1de8.png",
+    "static/media/8.png": "/ptlanding/static/media/8.3a414f47a1ce931466f5.png",
+    "static/media/2.png": "/ptlanding/static/media/2.0bda051210a82832c98f.png",
+    "static/media/logo.svg": "/ptlanding/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ptlanding/index.html",
+    "main.f855e6bc.css.map": "/ptlanding/static/css/main.f855e6bc.css.map",
+    "main.9c217077.js.map": "/ptlanding/static/js/main.9c217077.js.map",
+    "787.4d26c58a.chunk.js.map": "/ptlanding/static/js/787.4d26c58a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9c217077.js"
+  ]
+}
