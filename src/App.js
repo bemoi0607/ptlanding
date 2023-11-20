@@ -130,10 +130,10 @@ function App() {
       <img src={twentynine}  style={{width:'100%',height:'100%'}} />
       <div style={{ width: '100%', height: 100, backgroundColor: 'white', display: 'flex', justifyContent: 'center' }}></div>
       <div style={{ position: 'fixed', bottom: 0, width: '100%',height:100, backgroundColor: 'transparent', display: 'flex', justifyContent: 'center',alignItems:'center' }}>
-        <button style={{borderColor: '#4B6AF4', borderRadius: 15, width: '40%', height: 50, fontWeight: 'bold', color: '#4B6AF4', backgroundColor: 'white' }} onClick={handleButtonClick1}>
+        <button style={{fontSize:18,borderColor: '#4B6AF4', borderRadius: 15, width: '40%', height: 50, fontWeight: 'bold', color: '#4B6AF4', backgroundColor: 'white' }} onClick={handleButtonClick1}>
           톡톡 상담하기
         </button>
-        <button style={{ border: 'none',marginLeft:20,borderColor: '#4B6AF4', borderRadius: 15, width: '40%', height: 50, fontWeight: 'bold', color: 'white', backgroundColor: '#4B6AF4' }} onClick={handleButtonClick3}>
+        <button style={{ fontSize:18,border: 'none',marginLeft:20,borderColor: '#4B6AF4', borderRadius: 15, width: '40%', height: 50, fontWeight: 'bold', color: 'white', backgroundColor: '#4B6AF4' }} onClick={handleButtonClick3}>
           1회 체험받기
         </button>
       </div>
