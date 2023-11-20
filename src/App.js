@@ -128,7 +128,8 @@ function App() {
       <img src={twentyseven}  style={{width:'100%',height:'100%'}} />
       <img src={twentyeight}  style={{width:'100%',height:'100%'}} />
       <img src={twentynine}  style={{width:'100%',height:'100%'}} />
-      <div style={{ position: 'fixed', bottom: 0, width: '100%', backgroundColor: 'transparent', display: 'flex', justifyContent: 'center' }}>
+      <div style={{ width: '100%', height: 100, backgroundColor: 'white', display: 'flex', justifyContent: 'center' }}></div>
+      <div style={{ position: 'fixed', bottom: 0, width: '100%',height:100, backgroundColor: 'transparent', display: 'flex', justifyContent: 'center',alignItems:'center' }}>
         <button style={{borderColor: '#4B6AF4', borderRadius: 15, width: '40%', height: 50, fontWeight: 'bold', color: '#4B6AF4', backgroundColor: 'white' }} onClick={handleButtonClick1}>
           톡톡 상담하기
         </button>
